@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Здравсвуй!  ЁёЖжФфЯяЧчИиЬьЮюБбЛлЗзЩщШшЪъГгЙйЦц");
         System.out.println("éöàäèü$£?'`^^¨¨§ﬁ±“#Ç[]|{}≠¿´≤¥≈©√∫~~«…–åß∂ƒ@ªº∆¬¢æœ∑€®†Ω°¡øπ§‘");
         System.out.println("die Schweiz und Österreich");
+        System.out.println("\"A\"\t9\n\"B\"\t47\n\"C\"\t125");
+
     }
 }
