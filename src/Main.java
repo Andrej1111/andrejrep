@@ -11,6 +11,13 @@ public class Main {
         System.out.println("Pusė per pusę yra 1/4 arba "+1/4.);
         System.out.println("Du plius trys kart penki yra "+2+3*5);
         System.out.println("Du " + args[0] + " " + args[1] + " žirnius " + args[2] + ".");
-
+        System.out.printf("%-12s %6s %8s %10s %n",
+                "Prekė", "Kiekis", "Kaina", "Suma");
+        System.out.printf("%-12s %6s %8s %10s %n",
+                "Товар", "Количество", "Цена", "Сумма");
+        System.out.printf("%-12s %6s %8s %10s %n",
+                "Ware", "Menge", "Preis", "Summe");
+        System.out.printf("%-12s %6s %8s %10s %n",
+                "Commodity", "Amount", "Preis", "Total");
     }
 }
