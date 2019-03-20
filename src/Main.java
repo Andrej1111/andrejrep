@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Morgen! üöäß ÜÖÄß");
         System.out.println("Здравсвуй!  ЁёЖжФфЯяЧчИиЬьЮюБбЛлЗзЩщШшЪъГгЙйЦц");
         System.out.println("éöàäèü$£?'`^^¨¨§ﬁ±“#Ç[]|{}≠¿´≤¥≈©√∫~~«…–åß∂ƒ@ªº∆¬¢æœ∑€®†Ω°¡øπ§‘");
+        System.out.println("die Schweiz und Österreich");
     }
 }
